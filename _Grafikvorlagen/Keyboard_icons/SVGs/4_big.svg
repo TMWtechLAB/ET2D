@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg9207"
+   height="53.531"
+   width="53"
+   version="1.1"
+   sodipodi:docname="4_big.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="4_big.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview319"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.4086605"
+     inkscape:cx="21.094843"
+     inkscape:cy="26.765499"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9207" />
+  <defs
+     id="defs9209">
+    <linearGradient
+       id="linearGradient7848"
+       y2="571.91"
+       gradientUnits="userSpaceOnUse"
+       x2="352.27"
+       gradientTransform="matrix(0.2087115,0,0,0.2080024,-39.21738,-97.43115)"
+       y1="571.91"
+       x1="275.73">
+      <stop
+         id="stop3250"
+         stop-color="#d8d8d8"
+         offset="0" />
+      <stop
+         id="stop3252"
+         stop-color="#b1b1b1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7852"
+       y2="535.99"
+       gradientUnits="userSpaceOnUse"
+       x2="355.82"
+       gradientTransform="matrix(0.2087115,0,0,0.2080024,-65.94737,-64.66971)"
+       y1="520.33"
+       x1="332.92">
+      <stop
+         id="stop3264"
+         stop-color="#656565"
+         offset="0" />
+      <stop
+         id="stop3266"
+         stop-color="#939393"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7855"
+       y2="538.13"
+       gradientUnits="userSpaceOnUse"
+       x2="358.68"
+       gradientTransform="matrix(-0.2087115,0,0,0.2080024,118.93778,-64.66971)"
+       y1="522.48"
+       x1="338.63">
+      <stop
+         id="stop3278"
+         stop-color="#d6d6d6"
+         offset="0" />
+      <stop
+         id="stop3280"
+         stop-color="#939393"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7859"
+       y2="321.37"
+       gradientUnits="userSpaceOnUse"
+       x2="526.08"
+       gradientTransform="matrix(0.2087115,0,0,0.2080024,-65.94737,-64.66971)"
+       y1="333.99"
+       x1="529.11">
+      <stop
+         id="stop3298"
+         stop-color="#d6d6d6"
+         offset="0" />
+      <stop
+         id="stop3300"
+         stop-color="#656565"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata9212">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="rect5847"
+     fill-rule="evenodd"
+     rx="4.7705002"
+     ry="4.0114999"
+     height="52.043999"
+     width="51.493999"
+     y="0.74624634"
+     x="0.75"
+     fill="#656565" />
+  <rect
+     id="rect5849"
+     fill-rule="evenodd"
+     height="34.563999"
+     width="11.279"
+     y="4.6062622"
+     x="40.940002"
+     fill="#d6d6d6" />
+  <path
+     id="path5851"
+     d="m 43.1,7.62625 9.0939,-2.9715 c -0.3613,-2.8568 -2.3291,-3.8457 -5.0687,-3.9372 -3.6454,0.10572 -7.2028,0.26014 -9.0939,1.3372 z"
+     fill-rule="evenodd"
+     fill="url(#linearGradient7859)"
+     style="fill:url(#linearGradient7859)" />
+  <rect
+     id="rect5853"
+     fill-rule="evenodd"
+     rx="0"
+     ry="0"
+     height="12.975"
+     width="33.469002"
+     y="39.806274"
+     x="9.8500061"
+     fill="#929292" />
+  <path
+     id="path5855"
+     d="m 41.4,36.75625 10.805,1.1556 0.0395,10.506 c -0.006,2.7094 -2.1668,4.2661 -4.4011,4.3599 l -4.8096,-0.0525 -5.3234,-12.344 3.6895,-3.6245 z"
+     fill-rule="evenodd"
+     fill="url(#linearGradient7855)"
+     style="fill:url(#linearGradient7855)" />
+  <path
+     id="path5857"
+     d="m 8.26,36.65625 -7.4845,1.2607 -0.0395,10.506 c 0.006,2.7094 2.1668,4.2661 4.4011,4.3599 l 4.8096,-0.0525 1.6866,-12.292 -3.3733,-3.782 z"
+     fill-rule="evenodd"
+     fill="url(#linearGradient7852)"
+     style="fill:url(#linearGradient7852)" />
+  <rect
+     id="rect5859"
+     fill-rule="evenodd"
+     rx="4.7705002"
+     ry="4.7543001"
+     height="40.244999"
+     width="36.535"
+     y="1.40625"
+     x="7.519989"
+     fill="#f1f1f1" />
+  <rect
+     id="rect5861"
+     fill-rule="evenodd"
+     rx="4.7705002"
+     ry="4.7543001"
+     height="40.244999"
+     width="35.480999"
+     y="1.40625"
+     x="7.519989"
+     fill="url(#linearGradient7848)"
+     style="fill:url(#linearGradient7848)" />
+  <text
+     id="text8031"
+     style="text-align:start;writing-mode:lr-tb;text-anchor:start"
+     font-weight="normal"
+     transform="scale(1.0017033,0.9982996)"
+     font-style="normal"
+     line-height="100%"
+     font-stretch="normal"
+     xml:space="preserve"
+     font-size="13px"
+     font-variant="normal"
+     y="15.800446"
+     x="11.829773"
+     font-family="Arial"
+     fill="#000000"><tspan
+       id="tspan8033"
+       y="15.800446"
+       x="11.829773">$</tspan></text>
+  <rect
+     id="rect5869"
+     stroke-linejoin="miter"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     rx="4.7705998"
+     ry="4.0114999"
+     height="52.043999"
+     width="51.493999"
+     stroke="#000000"
+     stroke-linecap="butt"
+     stroke-miterlimit="4"
+     y="0.74624634"
+     x="0.75"
+     stroke-width="1.5"
+     fill="none" />
+  <text
+     id="text6033"
+     style="text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+     font-weight="normal"
+     transform="scale(1.0017033,0.9982996)"
+     font-style="normal"
+     line-height="100%"
+     font-stretch="normal"
+     xml:space="preserve"
+     font-size="30.1788px"
+     font-variant="normal"
+     y="35.113049"
+     x="16.827871"
+     font-family="Arial"
+     fill="#000000"><tspan
+       id="tspan6037"
+       y="35.113049"
+       x="16.827871"
+       style="stroke-width:1">4</tspan></text>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.08096mm"
+   height="96.893402mm"
+   viewBox="0 0 320.08096 96.893402"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Micro_Scooter_Griptape_v1.0.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="868.77308"
+     inkscape:cy="213.88438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="880.858,637.038"
+     inkscape:measure-end="880.858,746.349"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.776738,-24.757154)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.0818161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.419275,24.799298 c -18.720102,-0.04423 -30.833741,1.095039 -31.983059,4.02301 -6.2997929,12.599771 -26.172046,-1.498666 -26.172046,44.381784 0,45.880448 19.8722531,31.781498 26.172046,44.381268 4.903759,12.49268 209.406894,-7.57605 275.024544,-13.20798 0,0 18.7973,-3.6219 18.7973,-9.056288 -0.004,-5.16003 -4.68095,-14.58105 -0.002,-22.117 -4.67889,-7.53595 -0.002,-16.95748 0.002,-22.11751 0,-5.43439 -18.7973,-9.056294 -18.7973,-9.056294 C 236.22224,37.718341 104.57161,24.943774 43.419275,24.799298 Z"
+       id="path4548"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
